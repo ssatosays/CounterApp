@@ -1,2 +1,2 @@
 # CounterApp
-This app is simple counter app using net6.0.
+This app is simple console app using net6.0.
